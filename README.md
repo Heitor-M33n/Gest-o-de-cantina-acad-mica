@@ -1,1 +1,1 @@
-# Gest-o-de-cantina-acad-mica
+# Gestão-de-cantina-acadêmica
