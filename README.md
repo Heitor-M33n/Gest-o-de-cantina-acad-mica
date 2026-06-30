@@ -62,8 +62,8 @@ Responsável por consultar informações disponíveis no sistema, como produtos 
 
 ## Projeto desenvolvido por:
 
--Fabricio Osorio do Nascimento
--Heitor Ferreira da Silva
--Joaquim Luiz Queiroz do Rêgo
--Nícolas Gomes Pinheiro Cavalcante
--Robson Leite de Sousa Rêgo Júnior
+- Fabricio Osorio do Nascimento
+- Heitor Ferreira da Silva
+- Joaquim Luiz Queiroz do Rêgo
+- Nícolas Gomes Pinheiro Cavalcante
+- Robson Leite de Sousa Rêgo Júnior
