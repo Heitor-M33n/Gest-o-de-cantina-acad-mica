@@ -1,4 +1,4 @@
-INSERT INTO produtos (produto, estoque, preco) VALUES
+INSERT INTO Produtos (nome, estoque, preco) VALUES
 ('Arroz',100,25.90),
 ('Feijao',80,9.50),
 ('Macarrao',120,5.99),
@@ -20,7 +20,7 @@ INSERT INTO produtos (produto, estoque, preco) VALUES
 ('Oleo',75,7.40),
 ('Farinha',60,6.20);
 
-INSERT INTO vendas (data) VALUES
+INSERT INTO Vendas (data) VALUES
 ('2025-01-01 09:00:00'),
 ('2025-01-02 10:00:00'),
 ('2025-01-03 11:00:00'),
@@ -40,9 +40,9 @@ INSERT INTO vendas (data) VALUES
 ('2025-01-17 15:30:00'),
 ('2025-01-18 16:30:00'),
 ('2025-01-19 17:30:00'),
-('2025-01-20 18:30:00');
+(DEFAULT);
 
-INSERT INTO itensvenda (id_venda,id_produto,quantidade,preco) VALUES
+INSERT INTO ItensVenda (id_venda,id_produto,quantidade,preco) VALUES
 (1,1,2,25.90),
 (2,2,1,9.50),
 (3,3,3,5.99),
